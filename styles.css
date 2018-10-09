@@ -1,0 +1,19 @@
+.jumbotron {
+    background-image: url(hawks.jpg);
+    background-attachment: scroll;
+    background-size: cover;
+    color: red;
+    text-shadow: 2px 2px 2px white;
+} 
+
+.navbar-dark .navbar-brand {
+        color: red
+}
+
+h1.display-4 {
+    padding: 0px
+}
+
+.logo {
+    height: 70px;
+}
