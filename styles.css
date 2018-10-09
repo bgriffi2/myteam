@@ -1,7 +1,9 @@
 .jumbotron {
     background-image: url(hawks.jpg);
     background-attachment: scroll;
-    background-size: cover;
+    background-size: cover;              
+    /* background-repeat: no-repeat; */
+    /* background-position: center; */
     color: red;
     text-shadow: 2px 2px 2px white;
 } 
